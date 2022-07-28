@@ -11,7 +11,7 @@ Dashboard used for analysing Nft transactions data
 
 ***
 
-**Issue to solve**
+**Issues to solve**
 
 * Fetch NFT contract addresses
 * Mint price 
